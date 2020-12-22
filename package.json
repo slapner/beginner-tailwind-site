@@ -2,7 +2,7 @@
 	"name": "beginner-tailwind-site",
 	"version": "1.0.0",
 	"description": "",
-	"main": "index.js",
+	"main": "index.html",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/slapner/beginner-tailwind-site.git"
